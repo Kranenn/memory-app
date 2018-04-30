@@ -10,8 +10,8 @@
     ]
     "theme-color": "#9E9E9E",
     "background-color": "9E9E9E",
-    "scope": "xxxx/APP",
-    "start-url": "xxxx/APP/index.html",
+    "scope": "https://zander33692.github.io/memory-app/",
+    "start-url": "https://zander33692.github.io/memory-app/index.html",
     "display": "standalone",
     "orientation": "portrait"
     
